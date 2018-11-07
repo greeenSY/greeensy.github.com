@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GreeenSY&#39;s Blog</title>
+  
+  <subtitle>自由主义</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://greeensy.github.io/"/>
+  <updated>2018-11-06T08:24:15.812Z</updated>
+  <id>http://greeensy.github.io/</id>
+  
+  <author>
+    <name>GreeenSY</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《囚徒的困境》读书笔记</title>
+    <link href="http://greeensy.github.io/2017/12/31/prisoner-dilemma/"/>
+    <id>http://greeensy.github.io/2017/12/31/prisoner-dilemma/</id>
+    <published>2017-12-31T13:30:01.000Z</published>
+    <updated>2018-11-06T08:24:15.812Z</updated>
+    
+    <summary type="html">
+    
+      一面说了博弈论，一面说了困境，其实也探讨了文明和合作
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://greeensy.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="博弈论" scheme="http://greeensy.github.io/tags/%E5%8D%9A%E5%BC%88%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Java 8 实战》读书笔记</title>
+    <link href="http://greeensy.github.io/2017/12/07/java8/"/>
+    <id>http://greeensy.github.io/2017/12/07/java8/</id>
+    <published>2017-12-07T06:38:12.000Z</published>
+    <updated>2018-11-06T08:24:15.812Z</updated>
+    
+    <summary type="html">
+    
+      作为Java的一个大的更新和升级，其中流、Lambda表达式、行为参数化等特性都值得学习和研究。
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://greeensy.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Java" scheme="http://greeensy.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《数据仓库》读书笔记</title>
+    <link href="http://greeensy.github.io/2017/09/23/warehouse/"/>
+    <id>http://greeensy.github.io/2017/09/23/warehouse/</id>
+    <published>2017-09-23T03:38:13.000Z</published>
+    <updated>2018-11-06T08:24:15.812Z</updated>
+    
+    <summary type="html">
+    
+      很多经典的结论，基本也和工业界数据仓库的脉络相似，但是也有部分内容过时了，尤其不适应互联网背景和”国情“。但是作为启发式读物还是不错的，刺激读者思考和发散。
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://greeensy.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="数据仓库" scheme="http://greeensy.github.io/tags/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql查询优化</title>
+    <link href="http://greeensy.github.io/2017/09/20/mysql-optimization/"/>
+    <id>http://greeensy.github.io/2017/09/20/mysql-optimization/</id>
+    <published>2017-09-20T07:45:01.000Z</published>
+    <updated>2018-11-06T08:24:15.811Z</updated>
+    
+    <summary type="html">
+    
+      整理和学习了Mysql查询优化相关的知识
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://greeensy.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="mysql" scheme="http://greeensy.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql引擎、索引结构、事务级别和锁</title>
+    <link href="http://greeensy.github.io/2017/09/12/mysql-engine/"/>
+    <id>http://greeensy.github.io/2017/09/12/mysql-engine/</id>
+    <published>2017-09-12T02:25:15.000Z</published>
+    <updated>2018-11-06T08:24:15.810Z</updated>
+    
+    <summary type="html">
+    
+      整理和学习了Mysql引擎相关的知识
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://greeensy.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="mysql" scheme="http://greeensy.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pig浅谈——小心pig给你挖的坑</title>
+    <link href="http://greeensy.github.io/2016/12/01/pig-introduction/"/>
+    <id>http://greeensy.github.io/2016/12/01/pig-introduction/</id>
+    <published>2016-12-01T02:15:25.000Z</published>
+    <updated>2018-11-06T08:24:15.810Z</updated>
+    
+    <summary type="html">
+    
+      之前在组里关于pig的分享，把ppt整理一下
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="pig" scheme="http://greeensy.github.io/tags/pig/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jstorm的Nimbus HA机制</title>
+    <link href="http://greeensy.github.io/2015/03/19/jstorm-nimbus-ha/"/>
+    <id>http://greeensy.github.io/2015/03/19/jstorm-nimbus-ha/</id>
+    <published>2015-03-18T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.809Z</updated>
+    
+    <summary type="html">
+    
+      简单调研了Jstorm的Nimbus HA机制，写在这里给自己留个备份。
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="JStorm" scheme="http://greeensy.github.io/tags/JStorm/"/>
+    
+      <category term="Storm" scheme="http://greeensy.github.io/tags/Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jstorm源码分析——Ack机制</title>
+    <link href="http://greeensy.github.io/2014/11/21/jstorm-ack/"/>
+    <id>http://greeensy.github.io/2014/11/21/jstorm-ack/</id>
+    <published>2014-11-20T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.804Z</updated>
+    
+    <summary type="html">
+    
+      这篇文章分析Jstorm中的ack可靠性机制
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="JStorm" scheme="http://greeensy.github.io/tags/JStorm/"/>
+    
+      <category term="Storm" scheme="http://greeensy.github.io/tags/Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jstorm源码分析——Tuple的发送、接收和处理</title>
+    <link href="http://greeensy.github.io/2014/10/15/jstorm-tuple/"/>
+    <id>http://greeensy.github.io/2014/10/15/jstorm-tuple/</id>
+    <published>2014-10-14T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.803Z</updated>
+    
+    <summary type="html">
+    
+      这篇文章分析Jstorm中Tuple如何在整个任务中流动和处理
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="JStorm" scheme="http://greeensy.github.io/tags/JStorm/"/>
+    
+      <category term="Storm" scheme="http://greeensy.github.io/tags/Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jstorm源码分析——Topology的提交和实例化过程</title>
+    <link href="http://greeensy.github.io/2014/08/26/jstorm-topology-submit/"/>
+    <id>http://greeensy.github.io/2014/08/26/jstorm-topology-submit/</id>
+    <published>2014-08-25T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.803Z</updated>
+    
+    <summary type="html">
+    
+      这篇文章分析Jstorm中提交Topology后整个任务是如何上传和启动工作的。
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="JStorm" scheme="http://greeensy.github.io/tags/JStorm/"/>
+    
+      <category term="Storm" scheme="http://greeensy.github.io/tags/Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jstorm源码分析——Jstorm的启动过程</title>
+    <link href="http://greeensy.github.io/2014/08/06/jstorm-startup/"/>
+    <id>http://greeensy.github.io/2014/08/06/jstorm-startup/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.803Z</updated>
+    
+    <summary type="html">
+    
+      分析Jstorm的启动过程。
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="JStorm" scheme="http://greeensy.github.io/tags/JStorm/"/>
+    
+      <category term="Storm" scheme="http://greeensy.github.io/tags/Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jstorm源码分析——JStorm的系统状态</title>
+    <link href="http://greeensy.github.io/2014/08/01/jstorm-status/"/>
+    <id>http://greeensy.github.io/2014/08/01/jstorm-status/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.802Z</updated>
+    
+    <summary type="html">
+    
+      初步分析Jstorm的本地目录，zookeeper的本地目录，系统状态等等。
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="JStorm" scheme="http://greeensy.github.io/tags/JStorm/"/>
+    
+      <category term="Storm" scheme="http://greeensy.github.io/tags/Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jstorm源码分析——Topology</title>
+    <link href="http://greeensy.github.io/2014/07/11/jstorm-programing/"/>
+    <id>http://greeensy.github.io/2014/07/11/jstorm-programing/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.802Z</updated>
+    
+    <summary type="html">
+    
+      初步分析Jstorm的Topology和基本编程结构
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="JStorm" scheme="http://greeensy.github.io/tags/JStorm/"/>
+    
+      <category term="Storm" scheme="http://greeensy.github.io/tags/Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据分析和挖掘方法学习笔记</title>
+    <link href="http://greeensy.github.io/2014/06/30/data-mining/"/>
+    <id>http://greeensy.github.io/2014/06/30/data-mining/</id>
+    <published>2014-06-29T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.802Z</updated>
+    
+    <summary type="html">
+    
+      调研和总结了数据分析和挖掘方法的一些基本概念
+    
+    </summary>
+    
+      <category term="百科" scheme="http://greeensy.github.io/categories/%E7%99%BE%E7%A7%91/"/>
+    
+    
+      <category term="数据挖掘" scheme="http://greeensy.github.io/tags/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/"/>
+    
+      <category term="数据分析" scheme="http://greeensy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据高级查询语言引擎总结</title>
+    <link href="http://greeensy.github.io/2014/06/20/query-computing/"/>
+    <id>http://greeensy.github.io/2014/06/20/query-computing/</id>
+    <published>2014-06-19T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.801Z</updated>
+    
+    <summary type="html">
+    
+      调研和总结了几个高级查询语言引擎——Hive，Pig，Impala等
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="高级查询语言" scheme="http://greeensy.github.io/tags/%E9%AB%98%E7%BA%A7%E6%9F%A5%E8%AF%A2%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="hive" scheme="http://greeensy.github.io/tags/hive/"/>
+    
+      <category term="pig" scheme="http://greeensy.github.io/tags/pig/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据图处理系统总结</title>
+    <link href="http://greeensy.github.io/2014/06/20/Graph-computing/"/>
+    <id>http://greeensy.github.io/2014/06/20/Graph-computing/</id>
+    <published>2014-06-19T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.801Z</updated>
+    
+    <summary type="html">
+    
+      调研和总结了几个图处理系统——Kineograph，Pregel，GraphLab，PowerGraph
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="图处理" scheme="http://greeensy.github.io/tags/%E5%9B%BE%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据批量处理系统总结</title>
+    <link href="http://greeensy.github.io/2014/06/15/Batch-Computing/"/>
+    <id>http://greeensy.github.io/2014/06/15/Batch-Computing/</id>
+    <published>2014-06-14T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.801Z</updated>
+    
+    <summary type="html">
+    
+      调研和总结了Hadoop和Spark的基本概念
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="批量处理" scheme="http://greeensy.github.io/tags/%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Hadoop" scheme="http://greeensy.github.io/tags/Hadoop/"/>
+    
+      <category term="Spark" scheme="http://greeensy.github.io/tags/Spark/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据流式处理系统总结之三</title>
+    <link href="http://greeensy.github.io/2014/06/11/Stream-Computing-3/"/>
+    <id>http://greeensy.github.io/2014/06/11/Stream-Computing-3/</id>
+    <published>2014-06-10T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.801Z</updated>
+    
+    <summary type="html">
+    
+      对于自己调研过或者了解过的大数据流式处理系统进行特点的总结和对比
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="流式处理" scheme="http://greeensy.github.io/tags/%E6%B5%81%E5%BC%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据流式处理系统总结之Storm</title>
+    <link href="http://greeensy.github.io/2014/06/01/Stream-Storm/"/>
+    <id>http://greeensy.github.io/2014/06/01/Stream-Storm/</id>
+    <published>2014-05-31T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.800Z</updated>
+    
+    <summary type="html">
+    
+      对于自己调研过或者了解过的大数据流式处理系统进行特点的总结和对比——Storm
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="流式处理" scheme="http://greeensy.github.io/tags/%E6%B5%81%E5%BC%8F%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Storm" scheme="http://greeensy.github.io/tags/Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据流式处理系统总结之S4</title>
+    <link href="http://greeensy.github.io/2014/04/01/Stream-S4/"/>
+    <id>http://greeensy.github.io/2014/04/01/Stream-S4/</id>
+    <published>2014-03-31T16:00:00.000Z</published>
+    <updated>2018-11-06T08:24:15.800Z</updated>
+    
+    <summary type="html">
+    
+      对于自己调研过或者了解过的大数据流式处理系统进行特点的总结和对比——S4
+    
+    </summary>
+    
+      <category term="大数据" scheme="http://greeensy.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="分布式系统" scheme="http://greeensy.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="流式处理" scheme="http://greeensy.github.io/tags/%E6%B5%81%E5%BC%8F%E5%A4%84%E7%90%86/"/>
+    
+      <category term="S4" scheme="http://greeensy.github.io/tags/S4/"/>
+    
+  </entry>
+  
+</feed>
